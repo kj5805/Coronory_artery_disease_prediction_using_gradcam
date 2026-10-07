@@ -1,0 +1,29 @@
+.ipynb_checkpoints/
+__pycache__/
+*.swp
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.log
+*.png
+*.jpg
+*.jpeg
+*.avi
+echonet.cfg
+.echonet.cfg
+echonet.egg-info/
+a4c-video-dir/
+
+# Local datasets and experiment outputs
+data/
+outputs/
+cad_output*/
+output/
+output_folders/
+
+# Local Python environments and editor state
+echonet_env/
+.venv/
+.env
+.vscode/
